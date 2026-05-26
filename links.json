@@ -1,46 +1,76 @@
 {
-  "wersja": "1.0",
+  "wersja": "1.1",
   "ostatnia_aktualizacja": "2026-05-26",
   "linki": {
     "anmeldung_de": {
-      "nazwa": "Anmeldung w Niemczech",
-      "url": "https://service.berlin.de/dienstleistung/120335/",
-      "opis": "Meldung przy zameldowaniu"
-    },
-    "meldezettel_at": {
-      "nazwa": "Meldezettel w Austrii",
-      "url": "https://www.help.gv.at/Portal.Node/hlpd/public/content/9/Seite.090000.html",
+      "nazwa": "Anmeldung Niemcy",
+      "url": "https://service.berlin.de/dienstleistung/120686/",
       "opis": "Formularz meldunkowy"
     },
-    "finanzamt_de": {
-      "nazwa": "Finanzamt — Steuer-ID",
-      "url": "https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html",
-      "opis": "Numer podatkowy w Niemczech"
+    "anmeldung_at": {
+      "nazwa": "Anmeldung Austria",
+      "url": "https://www.oesterreich.gv.at/en/themen/persoenliche_dokumente_und_bestaetigungen/an__abmeldung_des_wohnsitzes/Seite.1180200",
+      "opis": "Formularz meldunkowy AT"
     },
-    "finanzamt_at": {
-      "nazwa": "Finanzamt Österreich",
-      "url": "https://www.bmf.gv.at/",
-      "opis": "Urząd skarbowy w Austrii"
+    "wohnungsgeber_de": {
+      "nazwa": "Wohnungsgeberbestätigung DE",
+      "url": "https://www.immocloud.de/wohnungsgeberbestaetigung/",
+      "opis": "Potwierdzenie od właściciela"
+    },
+    "wohnungsgeber_at": {
+      "nazwa": "Rejestracja Wiedeń",
+      "url": "https://www.wien.gv.at/english/living-working/registration/",
+      "opis": "Rejestracja w Wiedniu"
+    },
+    "steuernummer_de": {
+      "nazwa": "Finanzamt DE",
+      "url": "https://www.finanzamt.de",
+      "opis": "Urząd skarbowy Niemcy"
+    },
+    "steuernummer_at": {
+      "nazwa": "FinanzOnline AT",
+      "url": "https://finanzonline.bmf.gv.at",
+      "opis": "Urząd skarbowy Austria"
+    },
+    "sozial_de": {
+      "nazwa": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html",
+      "opis": "Ubezpieczenie emerytalne DE"
+    },
+    "sozial_at": {
+      "nazwa": "ÖGK Gesundheitskasse",
+      "url": "https://www.gesundheitskasse.at",
+      "opis": "Kasa chorych Austria"
     },
     "krankenversicherung_de": {
-      "nazwa": "Ubezpieczenie zdrowotne DE",
-      "url": "https://www.tk.de/",
-      "opis": "TK — Techniker Krankenkasse"
+      "nazwa": "Techniker Krankenkasse",
+      "url": "https://www.tk.de",
+      "opis": "Kasa chorych TK"
     },
     "krankenversicherung_at": {
-      "nazwa": "Ubezpieczenie zdrowotne AT",
-      "url": "https://www.gesundheitskasse.at/",
-      "opis": "ÖGK — Österreichische Gesundheitskasse"
+      "nazwa": "ÖGK",
+      "url": "https://www.gesundheitskasse.at",
+      "opis": "Kasa chorych Austria"
     },
-    "ams_at": {
-      "nazwa": "AMS — Arbeitsmarktservice",
-      "url": "https://www.ams.at/",
-      "opis": "Urząd pracy w Austrii"
+    "banki_de": {
+      "nazwa": "Porównanie banków DE",
+      "url": "https://www.finanztip.de/girokonto/",
+      "opis": "Finanztip — porównanie kont"
     },
-    "agentur_arbeit_de": {
-      "nazwa": "Agentur für Arbeit",
-      "url": "https://www.arbeitsagentur.de/",
-      "opis": "Urząd pracy w Niemczech"
+    "banki_at": {
+      "nazwa": "Porównanie banków AT",
+      "url": "https://www.durchblicker.at/konto",
+      "opis": "Durchblicker — porównanie kont"
+    },
+    "konto_porady_de": {
+      "nazwa": "Porady bankowe DE",
+      "url": "https://allaboutberlin.com/guides/best-bank-germany",
+      "opis": "Najlepsze banki w Niemczech"
+    },
+    "konto_porady_at": {
+      "nazwa": "Porady bankowe AT",
+      "url": "https://www.englishspeakers.at/post/meldezettel-registering-at-a-new-address-in-austria",
+      "opis": "Rejestracja w Austrii"
     }
   }
 }
