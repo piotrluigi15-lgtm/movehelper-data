@@ -1,0 +1,46 @@
+{
+  "wersja": "1.0",
+  "ostatnia_aktualizacja": "2026-05-26",
+  "linki": {
+    "anmeldung_de": {
+      "nazwa": "Anmeldung w Niemczech",
+      "url": "https://service.berlin.de/dienstleistung/120335/",
+      "opis": "Meldung przy zameldowaniu"
+    },
+    "meldezettel_at": {
+      "nazwa": "Meldezettel w Austrii",
+      "url": "https://www.help.gv.at/Portal.Node/hlpd/public/content/9/Seite.090000.html",
+      "opis": "Formularz meldunkowy"
+    },
+    "finanzamt_de": {
+      "nazwa": "Finanzamt — Steuer-ID",
+      "url": "https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html",
+      "opis": "Numer podatkowy w Niemczech"
+    },
+    "finanzamt_at": {
+      "nazwa": "Finanzamt Österreich",
+      "url": "https://www.bmf.gv.at/",
+      "opis": "Urząd skarbowy w Austrii"
+    },
+    "krankenversicherung_de": {
+      "nazwa": "Ubezpieczenie zdrowotne DE",
+      "url": "https://www.tk.de/",
+      "opis": "TK — Techniker Krankenkasse"
+    },
+    "krankenversicherung_at": {
+      "nazwa": "Ubezpieczenie zdrowotne AT",
+      "url": "https://www.gesundheitskasse.at/",
+      "opis": "ÖGK — Österreichische Gesundheitskasse"
+    },
+    "ams_at": {
+      "nazwa": "AMS — Arbeitsmarktservice",
+      "url": "https://www.ams.at/",
+      "opis": "Urząd pracy w Austrii"
+    },
+    "agentur_arbeit_de": {
+      "nazwa": "Agentur für Arbeit",
+      "url": "https://www.arbeitsagentur.de/",
+      "opis": "Urząd pracy w Niemczech"
+    }
+  }
+}
